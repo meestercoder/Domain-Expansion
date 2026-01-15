@@ -1,0 +1,5 @@
+{
+  "name": "Infinite Knowledge Tree",
+  "description": "An interactive 3D infinite canvas to explore any subject using Generative AI. Expand nodes to discover sub-topics in a radial mind-map.",
+  "requestFramePermissions": []
+}
